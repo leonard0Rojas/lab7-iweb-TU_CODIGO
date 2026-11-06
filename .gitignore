@@ -1,0 +1,11 @@
+# Archivos generados por Maven
+target/
+
+# Configuración local de IntelliJ IDEA
+.idea/
+*.iml
+
+# Archivos temporales
+*.log
+.DS_Store
+Thumbs.db
